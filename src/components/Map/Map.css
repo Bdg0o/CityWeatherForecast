@@ -1,0 +1,6 @@
+.Map {
+  position: relative;
+  z-index: 1;
+  border-radius: 5px;
+  height: 100%;
+}
