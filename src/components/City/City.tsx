@@ -21,9 +21,6 @@ const City = ({ name, weatherData }: CityProps) => {
           ))}
         </div>
       </div>
-      <Link href="/" className="City-close">
-        🞩
-      </Link>
       <span className="City-bg">{name}</span>
     </div>
   );
