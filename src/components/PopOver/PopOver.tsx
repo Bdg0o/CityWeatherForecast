@@ -1,7 +1,7 @@
 import Link from "next/link";
+import { PopOverProps } from "./PopOver.types";
 
 import "./PopOver.css";
-import { PopOverProps } from "./PopOver.types";
 
 const PopOver = ({ children }: PopOverProps) => {
   return (
